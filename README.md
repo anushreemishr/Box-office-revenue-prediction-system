@@ -53,25 +53,6 @@ The project was implemented using the following step-by-step methodology:
 - Polynomial Regression captured non-linear relationships more effectively.  
 - Ridge regression helped reduce overfitting, while Lasso regression assisted in feature selection.  
 
-# Team Contribution
-
-# Member 1 (Anushree Mishra, CSJMA23001390278)
-- Dataset loading and preprocessing  
-- Exploratory Data Analysis and visualization
-- GitHub documentation 
-
-# Member 2 (Archana Yadav, CSJMA23001390279)
-- Simple Linear Regression  
-- Multiple Linear Regression  
-
-# Member 3 (Padma Narayan Mishra, CSJMA23001390189)
-- Polynomial Regression  
-- Ridge and Lasso Regression  
-
-# Member 4 (Vineet Kumar Singh, CSJMA23001390311)
-- Model evaluation (MSE, RMSE, R²)  
-- Residual analysis
-
 # Tools and Technologies
 - Python  
 - Jupyter Notebook 
